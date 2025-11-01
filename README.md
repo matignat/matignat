@@ -1,4 +1,4 @@
-#Mateusz Gnat
+# Mateusz Gnat
 
 🔥 Passionate about algorithms, object-oriented design, and developing efficient software.  
 🚀 Looking for software engineering internships  
