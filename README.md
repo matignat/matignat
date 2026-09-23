@@ -48,6 +48,38 @@ Currently looking for **Software Engineering Internship** opportunities.
 
 ---
 
+## University
+
+**University of Warsaw — Faculty of Mathematics, Informatics and Mechanics**
+
+B.Sc. in Computer Science · 2024–present
+
+## 🎓 Relevant Coursework
+
+`Algorithms & Data Structures` ·
+`Operating Systems & Computer Architecture` ·
+`Computer Networks` ·
+`Concurrent Programming` ·
+`Object-Oriented Programming` ·
+`Databases` ·
+`Web Applications` ·
+`Functional Programming` ·
+`Rust Programming` ·
+`Machine Learning` ·
+`Discrete Mathematics`
+
+---
+
+## University Activities
+
+**Co-founder — University of Warsaw Computer Science Student Club**
+
+**Member — Faculty Board**
+
+**Member — Student Council**
+
+---
+
 ## Featured Projects
 
 ### 🌐 Internet Radio Client
@@ -110,35 +142,6 @@ including state transitions, synchronous stepping, memory management,
 and modular automata structures.
 
 [View project →](YOUR_LINK)
-
----
-
-## University
-
-**University of Warsaw — Faculty of Mathematics, Informatics and Mechanics**
-
-B.Sc. in Computer Science · 2024–2027
-
-Relevant coursework:
-
-`Algorithms and Data Structures` ·
-`Operating Systems and Computer Architecture` ·
-`Computer Networks` ·
-`Concurrent Programming` ·
-`Object-Oriented Programming` ·
-`Web Applications` ·
-`Databases` ·
-`Discrete Mathematics`
-
----
-
-## University Activities
-
-**Co-founder — University of Warsaw Computer Science Student Club**
-
-**Member — Faculty Board**
-
-**Member — Student Council**
 
 ---
 
