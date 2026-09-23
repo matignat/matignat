@@ -58,6 +58,14 @@ resource management.
 
 ---
 
+### 🔎 Bulbapedia Wiki Scraper 
+**Python · Web Scraping · Data Analysis**
+
+Developed a web scraper for Bulbapedia that retrieves articles, extracts structured data and tables, analyzes word frequencies, and recursively explores linked pages.
+Built automated tests to verify the scraper's functionality and reliability. 
+
+[View project →](YOUR_LINK)
+
 ### 🎰 Lottery Simulation
 **Java · Object-Oriented Programming**
 
@@ -91,6 +99,8 @@ and modular automata structures.
 ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
 
 ### Technologies
 
