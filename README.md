@@ -4,6 +4,9 @@
 
 Third-year Computer Science student at the University of Warsaw interested in
 algorithms, systems programming, web development, and building efficient software.
+Co-founder of University of Warsaw Computer Science Student Club.
+Member of the Faculty Board.
+Member of the Student Council.
 
 Currently looking for **Software Engineering Internship** opportunities.
 
@@ -67,16 +70,6 @@ B.Sc. in Computer Science · 2024–present
 `Rust Programming` ·
 `Machine Learning` ·
 `Discrete Mathematics`
-
----
-
-## University Activities
-
-**Co-founder — University of Warsaw Computer Science Student Club**
-
-**Member — Faculty Board**
-
-**Member — Student Council**
 
 ---
 
