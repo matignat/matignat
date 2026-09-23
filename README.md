@@ -137,6 +137,15 @@ and modular automata structures.
 
 ---
 
+### 📊 Feature Selection & Predictive Modeling 
+**Python · Scikit-learn · Machine Learning** 
+Developed and evaluated classification and regression models on a high-dimensional synthetic dataset with 400 input features. 
+Implemented feature selection, regularization, and hyperparameter tuning using pipelines with `RandomForestClassifier` and `ElasticNet`. Compared baseline and optimized models using cross-validation and external validation, demonstrating improved generalization and reduced overfitting. 
+
+[View project →](https://github.com/matignat/ml-feature-selection-project)
+
+---
+
 ## Contact
 
 📧 [mateusz.gnat12@gmail.com](mailto:mateusz.gnat12@gmail.com)
