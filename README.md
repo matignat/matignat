@@ -137,6 +137,3 @@ and modular automata structures.
 ## Contact
 
 📧 [mateusz.gnat12@gmail.com](mailto:mateusz.gnat12@gmail.com)
-
-[GitHub](https://github.com/matignat) ·
-[LinkedIn](YOUR_LINK)
