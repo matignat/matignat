@@ -80,7 +80,7 @@ B.Sc. in Computer Science · 2024–present
 TCP client implementing continuous audio streaming, reconnection,
 and multiplexed handling of audio and text data.
 
-[View project →](YOUR_LINK)
+[View project →](https://github.com/matignat/web-radio-client)
 
 ---
 
@@ -92,7 +92,7 @@ from scratch. Includes GitHub OAuth authentication, customizable
 difficulty, game logic, dynamic animations, user accounts, and a
 live leaderboard.
 
-[View project →](YOUR_LINK)
+[View project →](https://github.com/matignat/wwwordle)
 
 ---
 
@@ -103,7 +103,7 @@ Concurrent factory simulation involving worker allocation,
 processing stations, scheduled tasks, synchronization, and
 resource management.
 
-[View project →](YOUR_LINK)
+[View project →](https://github.com/matignat/factory)
 
 ---
 
@@ -113,7 +113,7 @@ resource management.
 Developed a web scraper for Bulbapedia that retrieves articles, extracts structured data and tables, analyzes word frequencies, and recursively explores linked pages.
 Built automated tests to verify the scraper's functionality and reliability. 
 
-[View project →](YOUR_LINK)
+[View project →](https://github.com/matignat/scraper)
 
 ### 🎰 Lottery Simulation
 **Java · Object-Oriented Programming**
@@ -122,7 +122,7 @@ Object-oriented simulation of a lottery system capable of modeling
 players, tickets, draws, player strategies, financial management,
 tax collection, and error handling.
 
-[View project →](YOUR_LINK)
+[View project →](https://github.com/matignat/lotto-simulation)
 
 ---
 
@@ -133,7 +133,7 @@ Dynamic C library for simulating synchronous Moore automata,
 including state transitions, synchronous stepping, memory management,
 and modular automata structures.
 
-[View project →](YOUR_LINK)
+[View project →](https://github.com/matignat/moore-automaton)
 
 ---
 
