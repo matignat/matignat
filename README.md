@@ -38,7 +38,6 @@ Currently looking for **Software Engineering Internship** opportunities.
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge)
 ![UDP](https://img.shields.io/badge/UDP-00599C?style=for-the-badge)
 ![HTTP](https://img.shields.io/badge/HTTP-00599C?style=for-the-badge)
----
 
 ## About Me
 
@@ -106,7 +105,7 @@ resource management.
 
 ---
 
-### 🔎 Bulbapedia Wiki Scraper 
+### 🔎 Bulbapedia Wiki Scraper
 **Python · Web Scraping · Data Analysis**
 
 Developed a web scraper for Bulbapedia that retrieves articles, extracts structured data and tables, analyzes word frequencies, and recursively explores linked pages.
