@@ -4,8 +4,6 @@
 
 Third-year Computer Science student at the University of Warsaw interested in
 algorithms, systems programming, web development, and building efficient software.
-Co-founder of University of Warsaw Computer Science Student Club.
-Member of the Faculty Board and of the Student Council.
 
 Currently looking for **Software Engineering Internship** opportunities.
 
