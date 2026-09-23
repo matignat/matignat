@@ -7,9 +7,8 @@ algorithms, systems programming, web development, and building efficient softwar
 
 Currently looking for **Software Engineering Internship** opportunities.
 
-[GitHub](https://github.com/matignat) ·
-[Portfolio](https://github.com/matignat/portfolio) ·
-[LinkedIn](YOUR_LINK)
+##[Portfolio](https://github.com/matignat/portfolio) ·
+##[LinkedIn](YOUR_LINK)
 
 ---
 
